@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+.content{
+    margin-top: 150px;
+}
+
+.cart-image {
+    position: relative;
+    width: 30px;
+    height: 30px;
+  }
+
+  .cart-item-count {
+    position: absolute;
+    top: 17px; 
+    left: 53px;
+    background-color: #e94242;
+    color: white;
+    border-radius: 50%;
+    padding: 8px;
+    font-size: 12px;
+  }  
+
